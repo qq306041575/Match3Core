@@ -13,4 +13,4 @@ Game.unity示例游戏，拖动相邻元素进行位置交换，或勾选Game组
 Level.unity关卡编辑器，点击鼠标左键切换元素，点击鼠标右键删除元素，数据会作为ScriptableObject资产，实时自动保存在LevelData.asset。  
 
 ## 截图
-![screenshot](/docs/game.png)  
+![screenshot](game.png)  
